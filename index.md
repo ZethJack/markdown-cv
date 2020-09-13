@@ -1,91 +1,44 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Michal Jeřábek - Životopis
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Michal Jeřábek
+🏠: Jaurisova 1488/15 Praha 4 - Nusle 📞: +420 776-309-498 📧: jerabek.michal@gmail.com
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+## Osobní údaje
+  - **Datum a místo narození:** 30.6.1990, Bruntál
+  - **Národnost:** Česká
+  - **Rodinný stav:** Svobodný
 
+## Vzdělání
 
-## Currently
+  - **Nejvyšší dosažená úrověň vzdělání**: Středoškolské s maturitou
+  - **maturita**: složena dne 28.5.2009 (Matematika, AJ, ČJ, IVT)
 
-Standing on the shoulders of giants
+## Historie zaměstnání
 
-### Specialized in
+  - `Od 1.8.2009` - zaměstnancem spol. Alza.cz a.s. na pozici "Skladník"
+  - `Od 7.2.2010` - změna pozice ve spol. Alza.cz a.s. na pozici RMA specialista.
+  - `Od 1.11.2011` - zaměstnancem společnosti Hotels International na pozici Recepce a Rezervační oddělení
+  - `Od 1.11.2017` - zaměstnancem společnosti Naše Pivovary, v provozovně Hotel Michael na pozici Recepce a Rezervační oddělení
+  - `Od 1.5.2018` - dočasná změna pozice z recepční na vedoucí recepce v provozovně Hotel Michael
+  - `Od 1.8.2018` - změna na původní pozici Recepce a Rezervační odd.
+  - `Od 1.9.2019` - zaměstnancem společnosti CPI Hotels na pozici recepční v hotelu Clarion Prague City - na dobu určitou.
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+## Znalosti
 
+### Jazykové znalosti
+  - **Čeština** - rodilý mluvčí
+  - **Angličtina** - aktivní, na komunikativní úrovni
 
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
-
-## Education
-
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
+### Práce s počítačem
+  - Uživatelská znalost kancelářských programů (MS Office, Libre Office)
+  - Uživatelská znalost recepčního programu Micros Fidelio v.8
+  - Uživatelská znalost recepčního systému HotelTime
+  - Uživatelská znalost operačního systému linux, konkrétně distribuce Artix (derivace distribuce Arch s inicializačním systémem runit), Void Linux, raspbian (Debian pro Raspberry Pi SBC).
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Jun 2019 -->
 
 
