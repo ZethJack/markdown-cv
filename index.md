@@ -3,9 +3,9 @@ layout: cv
 title: Michal Jeřábek - Životopis
 ---
 # Michal Jeřábek
-🏠: Jaurisova 1488/15 Praha 4 - Nusle<br>
-📞: +420 776-309-498<br>
-📧: jerabek.michal@gmail.com<br>
+🏠: Květnového Vítězství 775/69, 149 00, Praha 4 - Háje  
+📞: +420 776-309-498  
+📧: jerabek.michal@gmail.com  
 
 ## Osobní údaje
   - **Datum a místo narození:** 30.6.1990, Bruntál
